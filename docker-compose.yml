@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  loop:
+    build: ./
+    volumes:
+      - ./notebooks:/home/jovyan/notebooks
+
+    ports:
+      - 8888:8888
+    
