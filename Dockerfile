@@ -1,2 +1,2 @@
-FROM loop3d/loop:paper
+FROM loop3d/loop:t21
 WORKDIR notebooks
