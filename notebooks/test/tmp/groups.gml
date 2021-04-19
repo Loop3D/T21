@@ -17,12 +17,12 @@ graph [
     label "3"
   ]
   edge [
-    source 1
-    target 0
+    source 0
+    target 2
   ]
   edge [
-    source 2
-    target 1
+    source 1
+    target 0
   ]
   edge [
     source 3

@@ -1,14 +1,16 @@
-0 1523.95 2031 2208 1 Cheela Springs Basalt
-1 1707.71 2730 2745 0 Boongal Formation
-2 101930 2718 2730 0 Pyradie Formation
-3 260227 2208 2445 1 Turee Creek Group
-4 459050 2445 2445 0 Boolgeeda Iron Formation
-5 489631 2715 2718 0 Bunjinah Formation
-6 501816 2450 2451 1 Weeli Wolli Formation
-7 547092 2445 2449 0 Woongarra Rhyolite
-8 777097 2629 2775 1 Fortescue Group
-9 804261 2504 2597 0 Wittenoom Formation
-10 822251 2451 2494 0 Brockman Iron Formation
-11 852778 2501 2541 0 Mount McRae Shale and Mount Sylvia Formation
-12 861493 2597 2629 0 Marra Mamba Iron Formation
-13 1.37731e+06 2629 2713 1 Jeerinah Formation
+0 5326.7 2208 2445 1 Kungarra Formation
+1 27717.6 3225 3530 0 Rocklea Inlier greenstones
+2 53077.6 2730 2745 0 Boongal Formation
+3 63035.8 2749 2766 0 Hardey Formation
+4 102601 2718 2730 0 Pyradie Formation
+5 149575 2208 2445 1 Turee Creek Group
+6 235584 2715 2718 0 Bunjinah Formation
+7 281844 2597 2629 0 Marra Mamba Iron Formation
+8 287390 2504 2597 0 Wittenoom Formation
+9 288726 2501 2541 0 Mount McRae Shale and Mount Sylvia Formation
+10 327943 2445 2445 0 Boolgeeda Iron Formation
+11 354574 2629 2775 1 Fortescue Group
+12 417783 2451 2494 0 Brockman Iron Formation
+13 419101 2445 2449 0 Woongarra Rhyolite
+14 422376 2450 2451 1 Weeli Wolli Formation
+15 558876 2629 2713 1 Jeerinah Formation

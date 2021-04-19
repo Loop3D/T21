@@ -1,4 +1,4 @@
-6 Brockman Iron Formation
-3 Weeli Wolli Formation
+12 Brockman Iron Formation
+9 Weeli Wolli Formation
 
-3 6 0
+9 12 0

@@ -1,52 +1,62 @@
-7 Boolgeeda Iron Formation
-12 Boongal Formation
-6 Brockman Iron Formation
-10 Bunjinah Formation
-13 Cheela Springs Basalt
-4 Fortescue Group
-9 Jeerinah Formation
-5 Marra Mamba Iron Formation
-1 Mount McRae Shale and Mount Sylvia Formation
-11 Pyradie Formation
-8 Turee Creek Group
-3 Weeli Wolli Formation
-0 Wittenoom Formation
-2 Woongarra Rhyolite
+2 Boolgeeda Iron Formation
+11 Boongal Formation
+12 Brockman Iron Formation
+8 Bunjinah Formation
+3 Fortescue Group
+14 Hardey Formation
+5 Jeerinah Formation
+13 Kungarra Formation
+1 Marra Mamba Iron Formation
+4 Mount McRae Shale and Mount Sylvia Formation
+7 Pyradie Formation
+15 Rocklea Inlier greenstones
+10 Turee Creek Group
+9 Weeli Wolli Formation
+6 Wittenoom Formation
+0 Woongarra Rhyolite
 
-1 0 0
-3 0 0
 2 0 0
-6 1 0
-3 1 0
-2 1 0
-2 3 0
-7 2 0
-8 2 0
-3 6 0
-7 3 0
-6 0 0
 0 9 0
+0 12 0
 0 5 0
-5 4 0
-9 4 0
-5 9 0
-1 9 0
-1 5 0
-2 6 0
-7 6 0
-6 5 0
-8 6 0
-6 9 0
-8 7 0
-9 10 0
-10 11 0
-4 10 0
-6 10 0
-2 10 0
-1 10 0
-8 3 0
-13 6 0
-1 4 0
-4 11 0
+2 1 0
+13 2 0
+2 5 0
+0 6 0
 0 4 0
-11 12 0
+12 1 0
+6 3 0
+4 6 0
+4 5 0
+12 4 0
+1 5 0
+12 5 0
+5 3 0
+6 1 0
+1 3 0
+12 6 0
+6 5 0
+3 7 0
+8 7 0
+3 8 0
+5 8 0
+10 0 0
+2 9 0
+10 12 0
+10 2 0
+10 9 0
+3 14 0
+2 12 0
+4 3 0
+9 6 0
+9 4 0
+9 12 0
+13 1 0
+4 1 0
+9 8 0
+12 8 0
+6 8 0
+14 15 0
+12 3 0
+7 11 0
+11 14 0
