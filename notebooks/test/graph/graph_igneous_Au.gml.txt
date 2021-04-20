@@ -1,7 +1,4 @@
-20 Brockman Iron Formation
-21 Rocklea Inlier greenstones
-23 Rocklea Inlier metagranitic unit[1]
-6 Weeli Wolli Formation
+9 Brockman Iron Formation
+2 Weeli Wolli Formation
 
-6 20 0
-23 21 0
+2 9 0
